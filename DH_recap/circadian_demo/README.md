@@ -1,1 +1,1 @@
-
+A notebook and it's accompanying data. `circadian.pkl` contains the time series x axis positions of multiple Drosophila. `metadata.pkl` contains the experimental groups and dates of when the data was collected. Both are pandas dataframes
